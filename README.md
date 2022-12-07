@@ -9,7 +9,9 @@ If you'd like to know more about what I do and think about in my pockets of free
 <picture>
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=josh-wong&include_all_commits=true&show_icons=true">
 </picture>
+
 <br>
+
 <picture>
   <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10">
 </picture>
