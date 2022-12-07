@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**josh-wong/josh-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Josh, and I'm a technical writer and knowledge management specialist.
 
-Here are some ideas to get you started:
+I enjoy writing, improving user experiences, learning new things, and sharing knowledge💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stats
+-----
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=josh-wong)](https://github.com/josh-wong/github-profile-trophy)
+
+![](https://github-readme-stats.vercel.app/api?username=josh-wong&include_all_commits=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10)
