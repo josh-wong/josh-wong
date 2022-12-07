@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Josh, and I'm a technical writer and knowledge management specialist.
+My name is Josh, and I'm a technical writer and knowledge management specialist. I enjoy writing, improving user experiences, learning new things, and sharing knowledge💡
 
-I enjoy writing, improving user experiences, learning new things, and sharing knowledge💡
+If you'd like to know more about what I do and think about in my pockets of free time, check out my blog at [080f53.com](https://www.080f53.com/blog/).
 
-Stats
 -----
 
-![](https://github-readme-stats.vercel.app/api?username=josh-wong&include_all_commits=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10)
+<picture>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=josh-wong&include_all_commits=true&show_icons=true">
+</picture>
+<br>
+<picture>
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10">
+</picture>
