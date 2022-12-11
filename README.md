@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://famichiki.jp/@josh" rel="me">
+</head>
+</html>
+
 # Hi there 👋
 
 My name is Josh, and I'm a technical writer and knowledge management specialist. I enjoy writing, improving user experiences, learning new things, and sharing knowledge💡
@@ -10,4 +17,3 @@ If you'd like to know more about what I do and think about in my pockets of free
 
 [![# Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10)](#Most-used-languages)
 
-<link href="https://famichiki.jp/@josh" rel="me">
