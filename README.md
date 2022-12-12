@@ -6,7 +6,6 @@ If you'd like to know more about what I do and think about in my pockets of free
 
 -----
 
-[![# GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-wong&include_all_commits=true&show_icons=true)](#GitHub-stats)
+[![#GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)]
 
-[![# Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=josh-wong&langs_count=10)](#Most-used-languages)
-
+[![#Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-wong)]
