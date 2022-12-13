@@ -6,8 +6,8 @@ If you'd like to know more about what I do and think about in my pockets of free
 
 -----
 
-![#GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=josh-wong&theme=dark&background=000000)
+[![#GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=josh-wong&theme=dark&background=000000#)](#GitHub-stats)
 
-![#Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-wong)
+[![#Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-wong)](#Most-used-languages)
 
 <link href="https://famichiki.jp/@josh" rel="me">
