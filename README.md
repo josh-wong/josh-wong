@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Josh, and I'm a technical writer and knowledge management specialist. I enjoy writing, improving user experiences, learning new things, and sharing knowledge💡
+My name is Josh. I'm a technical writer at [Scalar](https://github.com/scalar-labs), a Tokyo-based company that helps enterprises simplify data management. 
 
-If you'd like to know more about what I do and think about in my pockets of free time, check out my blog at [080f53.com](https://www.080f53.com).
+I enjoy everything about the writing process (from concept to publishing), improving user experiences, learning new things, and sharing knowledge💡
 
 -----
 
